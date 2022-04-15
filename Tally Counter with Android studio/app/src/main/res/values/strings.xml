@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tally Counter section 1</string>
+    <string name="txt">0</string>
+    <string name="inc">+</string>
+    <string name="dec">-</string>
+    <string name="reset">reset</string>
+</resources>
