@@ -1,9 +1,9 @@
-### Tally counter 
+# Tally counter 
 
-#  A Java Program for a counter with :::
-#   * increment button
-#   * decrement button
-#   * reset button
+  A Java Program for a counter with :::
+   * increment button
+   * decrement button
+   * reset button
 
 
 ## Check the Arch:
